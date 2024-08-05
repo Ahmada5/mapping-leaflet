@@ -1,0 +1,44 @@
+{
+   "data": [
+      {
+         "location": "MRT Lebak Bulus Grab",
+         "coordinates": [106.774214, -6.285939]
+      },
+      {
+         "location": "MRT Fatmawati",
+         "coordinates": [106.796585, -6.289145]
+      },
+      {
+         "location": "MRT Cipete Raya",
+         "coordinates": [106.803606, -6.266899]
+      },
+      {
+         "location": "MRT Haji Nawi",
+         "coordinates": [106.807872, -6.255069]
+      },
+      {
+         "location": "MRT Blok M BCA",
+         "coordinates": [106.797139, -6.24419]
+      },
+      {
+         "location": "LRT Velodrome",
+         "coordinates": [106.869944, -6.192211]
+      },
+      {
+         "location": "LRT Equestrian",
+         "coordinates": [106.877982, -6.189793]
+      },
+      {
+         "location": "LRT Pulomas",
+         "coordinates": [106.885828, -6.186933]
+      },
+      {
+         "location": "LRT Boulevard Utara",
+         "coordinates": [106.895704, -6.174448]
+      },
+      {
+         "location": "LRT Pegangsaan Dua",
+         "coordinates": [106.905087, -6.165844]
+      }
+   ]
+}

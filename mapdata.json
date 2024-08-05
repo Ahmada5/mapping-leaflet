@@ -1,0 +1,94 @@
+{
+   "data": [
+      {
+         "location": "MRT Lebak Bulus Grab",
+         "passengeraday": 1200,
+         "totalemploye": 18,
+         "geometry": {
+            "type": "hybrid",
+            "coordinates": [106.774214, -6.285939]
+         }
+      },
+      {
+         "location": "MRT Fatmawati",
+         "passengeraday": 950,
+         "totalemploye": 15,
+         "geometry": {
+            "type": "train only",
+            "coordinates": [106.796585, -6.289145]
+         }
+      },
+      {
+         "location": "MRT Cipete Raya",
+         "passengeraday": 850,
+         "totalemploye": 12,
+         "geometry": {
+            "type": "bus way",
+            "coordinates": [106.803606, -6.266899]
+         }
+      },
+      {
+         "location": "MRT Haji Nawi",
+         "passengeraday": 1100,
+         "totalemploye": 16,
+         "geometry": {
+            "type": "hybrid",
+            "coordinates": [106.807872, -6.255069]
+         }
+      },
+      {
+         "location": "MRT Blok M BCA",
+         "passengeraday": 1300,
+         "totalemploye": 20,
+         "geometry": {
+            "type": "train only",
+            "coordinates": [106.797139, -6.24419]
+         }
+      },
+      {
+         "location": "LRT Velodrome",
+         "passengeraday": 700,
+         "totalemploye": 10,
+         "geometry": {
+            "type": "bus way",
+            "coordinates": [106.869944, -6.192211]
+         }
+      },
+      {
+         "location": "LRT Equestrian",
+         "passengeraday": 600,
+         "totalemploye": 13,
+         "geometry": {
+            "type": "hybrid",
+            "coordinates": [106.877982, -6.189793]
+         }
+      },
+      {
+         "location": "LRT Pulomas",
+         "passengeraday": 800,
+         "totalemploye": 14,
+         "geometry": {
+            "type": "train only",
+            "coordinates": [106.885828, -6.186933]
+         }
+      },
+      {
+         "location": "LRT Boulevard Utara",
+         "passengeraday": 650,
+         "totalemploye": 11,
+         "geometry": {
+            "type": "bus way",
+            "coordinates": [106.895704, -6.174448]
+         }
+      },
+      {
+         "location": "LRT Pegangsaan Dua",
+         "passengeraday": 700,
+         "totalemploye": 17,
+         "geometry": {
+            "type": "hybrid",
+            "coordinates": [106.905087, -6.165844]
+         }
+      }
+   ]
+}
